@@ -1,6 +1,4 @@
 # IBM-Project-26332-1660025284
-Early Detection of Chronic Kidney Disease using Machine Learning
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
